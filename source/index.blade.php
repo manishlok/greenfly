@@ -76,7 +76,7 @@
                       </section>
                       <section class="panel">
                           <header class="panel-heading">
-                              GreenFly Discounts
+                              Contact for Bulk orders
                           </header>
                           <div class="panel-body">
                               <div class="best-seller">
